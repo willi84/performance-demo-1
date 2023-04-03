@@ -1,0 +1,2 @@
+# Enable Gzip compression
+compress: true
